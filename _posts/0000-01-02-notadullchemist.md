@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Solo Milloz Loks
 Use the left arrow to go back!
